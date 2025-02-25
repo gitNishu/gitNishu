@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nisansala Madhushani</h1>
 <h3 align="center">Software Quality Assurance Engineer from Liverpool,England</h3>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+
+<img src = 'https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNpbnViOXJ6eDc1dmd3d3BwMDQ4Z3l2Y3pkM3N2b3h1Z215bXo5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif' align='right' height="200px" width="400px">
+
+
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
