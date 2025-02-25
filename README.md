@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nisansala Madhushani</h1>
 <h3 align="center">Software Quality Assurance Engineer from Liverpool,England</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitnishu&label=Profile%20views&color=0e75b6&style=flat" alt="gitnishu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gitnishu&label=Profile%20views&color=0e75b6&style=flat" alt="gitnishu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/focusnishu" target="blank"><img src="https://img.shields.io/twitter/follow/focusnishu?logo=twitter&style=for-the-badge" alt="focusnishu" /></a> </p>
 
