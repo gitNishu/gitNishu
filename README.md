@@ -27,7 +27,9 @@
 
 
 
-
  ![Nisansala's github stats](https://github-readme-stats.vercel.app/api?username=gitNishu&show_icons=true&theme=tokyonight) 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
+
