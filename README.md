@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/focusnishu" target="blank"><img src="https://img.shields.io/twitter/follow/focusnishu?logo=twitter&style=for-the-badge" alt="focusnishu" /></a> </p>
 
-- 🌱 I’m currently learning **📖 ISTQB Foundation Level**
+- 🌱 I’m currently learning ****BSc.(Honours) in Software Engineering**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/nisansala-madhushani-qa-engineer/](https://www.linkedin.com/in/nisansala-madhushani-qa-engineer/)
 
