@@ -42,3 +42,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/nvidanage"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nvidanage" /></a></p><br><br>
+
+
